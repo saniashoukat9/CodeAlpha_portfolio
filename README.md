@@ -1,4 +1,4 @@
-✅ TASK : Build Your Own Portfolio Site
+✅ TASK : Own Portfolio Site
 
 ● Design a personal portfolio using HTML, CSS and optional JS.
 ● Showcase your skills, projects, resume and contact info.
