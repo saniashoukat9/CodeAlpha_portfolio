@@ -807,15 +807,17 @@ section {
 }
 
 .contact-details {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .contact-item {
-    display: flex;
-    align-items: flex-start;
     gap: 1rem;
-    margin-bottom: 1.5rem;
-    justify-content: center;
+    margin-bottom: 1.3rem;
+    
+    
 }
 
 .contact-item i {
