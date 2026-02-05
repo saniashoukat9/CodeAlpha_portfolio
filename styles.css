@@ -699,12 +699,12 @@ section {
 
 .certificates {
     background: var(--dark-bg);
-    padding: 100px 20px; /* consistent padding */
+    padding: 100px 20px; 
 }
 
 .certificates-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* flexible, mobile-friendly */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
     gap: 2rem;
 }
 
@@ -717,7 +717,7 @@ section {
     transition: var(--transition);
     box-shadow: var(--shadow);
     display: flex;
-    flex-direction: column; /* stacked for mobile */
+    flex-direction: column; 
     gap: 1.5rem;
     align-items: flex-start;
 }
