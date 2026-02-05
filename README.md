@@ -6,4 +6,4 @@ Portfolio live link: https://saniashktportfolio.netlify.app/
 ● Showcase your skills, projects, resume and contact info.
 ● Use a clean, responsive layout with sections for About, Projects, etc.
 ● Add smooth scroll, animations and hover effects.
-● Bonus: Deploy it on GitHub Pages or Netlify.
+
