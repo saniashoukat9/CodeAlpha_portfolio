@@ -671,6 +671,17 @@ section {
     height: 100%;
 }
 
+.experience-grid.single-card {
+    grid-template-columns: minmax(0, 640px);
+    justify-content: center;
+}
+
+.experience-grid .experience-card:only-child {
+    max-width: 640px;
+    width: 100%;
+    justify-self: center;
+}
+
 .experience-card:hover {
     transform: translateY(-5px);
     box-shadow: var(--shadow-hover);
